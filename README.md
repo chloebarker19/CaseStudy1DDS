@@ -30,6 +30,6 @@ To predict attrition, we used **Naïve Bayes** and **k-Nearest Neighbors (kNN)**
 
 ##  Additional Insights
 - **Job Level and Years in Current Role** emerged as interesting factors, particularly seeing high-turnover in Job Levels 1 and 2. 
-- **Younger employees in Sales roles** exhibited the higher attrition rates, indicating a potential retention challenge.
+- **Younger employees in Sales roles** exhibited higher attrition rates, indicating a potential retention challenge for some job roles.
 - Employees working **Over Time** were more likely to leave, highlighting a possible work-life balance issue.
 
